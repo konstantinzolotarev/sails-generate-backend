@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-backend",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "description": "Generate a backend for Sails.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "author": "balderdashy",
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-generate-backend.git"
+    "url": "git@github.com:balderdashy/sails-generate-backend.git"
   },
   "license": "MIT",
   "bugs": {
